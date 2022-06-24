@@ -1,0 +1,26 @@
+{
+  "name": "jupitertask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoffeMeow/JupiterTask.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KoffeMeow/JupiterTask/issues"
+  },
+  "homepage": "https://github.com/KoffeMeow/JupiterTask#readme",
+  "dependencies": {
+    "next": "^12.1.6",
+    "node-sass": "^7.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
