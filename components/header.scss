@@ -1,8 +1,11 @@
 .header{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    padding: 25px 16px;
+    max-width: 1075px;
+    padding: 25px 0;
+    margin: 0 auto;
+    user-select: none;
     
     a{
         color: white;
@@ -15,7 +18,6 @@
         display: flex;
         gap: 10vw;
         .list__item{
-            list-style: none;
             font-size: 13px;
         }   
     }

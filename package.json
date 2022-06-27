@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/KoffeMeow/JupiterTask#readme",
   "dependencies": {
+    "framer-motion": "^6.3.15",
     "next": "^12.1.6",
     "node-sass": "^7.0.1",
     "react": "^18.2.0",
